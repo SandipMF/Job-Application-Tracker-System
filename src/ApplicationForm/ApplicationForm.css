@@ -1,0 +1,21 @@
+
+.form-section {
+  /* width: 30%; */
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  justify-content: center;
+}
+
+.application-form {
+  width: 300px;
+  padding: 20px;
+  /* border: 1px solid #ccc;
+  border-radius: 8px; */
+  /* background-color: #282c34; */
+}
+
+.application-form div {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
